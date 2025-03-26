@@ -1,0 +1,30 @@
+operatrors
+=;assignment operatrors
+-; substraction
++ ; addition operator
+== equals to 
+!= not equal to
+data types
+int= integres
+string = characters
+dict = key value pairs
+tuple = list of immutable elements
+set
+float
+types of variables
+global variable
+local variable
+functions
+def
+control statements
+if
+else
+if elif else 
+while
+for
+else suite 
+break
+continue
+pass
+assert
+return
